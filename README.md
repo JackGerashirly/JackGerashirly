@@ -1,4 +1,6 @@
 ### Hi there 👋
+  
+I am Jack.
 
 <!--
 **JackGerashirly/JackGerashirly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+🖥️ Skills:  
+* Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;============>----------------&nbsp;&nbsp;40%
+* C++&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=====>-----------------------&nbsp;&nbsp;20%
+* Java&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=====>-----------------------&nbsp;&nbsp;20%
+   
+📖 Books about CS that I've read:  
+  
+* 《数论概论》
+* 《密码学原理与实践》
+  
+📚 Books about CS that I gonna read:
+  
+* 《网络攻击与防御技术》
+* 《C++ Primer Plus》
+  
+🌱 I’m currently learning:  
+  
+* C++ Development Skill
+* Attribute-based Encryption(just for graduate paper)
+* Searchable Encryption(just for graduate paper)
+
