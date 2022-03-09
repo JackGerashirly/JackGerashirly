@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 * 《网络攻击与防御技术》
 * 《C++ Primer Plus》
 * 《Python 编程从入门到实践》
+* 《Python 程序设计与算法思维》
   
 🌱 I’m currently learning:  
   
